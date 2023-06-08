@@ -1,0 +1,286 @@
+div {
+    background-color: #688C8C;
+    width: 500px;
+    height: 323px;
+    margin: -8px;
+    padding: 18px;
+
+}
+
+.logo {
+    width: 230px;
+    position: absolute;
+    top: 50px;
+    left: 135px;
+
+
+}
+
+.fundo-back {
+    width: 1000px;
+    height: 1060px;
+    margin: 0px;
+    top: 0px;
+    left: -246px;
+    position: absolute;
+
+}
+
+h2 {
+    position: absolute;
+    top: 250px;
+    left: 70px;
+    color: aliceblue;
+    font-size: 21px;
+
+}
+
+.segunda-frase {
+    position: absolute;
+    top: 280px;
+    left: 153px;
+    color: aliceblue;
+    font-size: 21px;
+}
+
+ul {
+    color: rgb(242, 245, 248);
+    position: absolute;
+    top: 420px;
+    left: 12px;
+}
+
+.formulario-titulo {
+    color: black;
+    font-size: 21px;
+    position: absolute;
+    top: 141px;
+    left: 650px;
+}
+
+p {
+    color: black;
+    font-size: 19px;
+    position: absolute;
+    top: 180px;
+    left: 770px;
+}
+
+.p-dois {
+    color: black;
+    font-size: 19px;
+    position: absolute;
+    top: 210px;
+    left: 801px;
+}
+
+.form-dois {
+
+    position: absolute;
+    top: 350px;
+    left: 570px;
+
+
+    background: fixed;
+
+
+
+
+}
+
+
+.nome-um {
+
+    background-color: #688c8c00;
+    margin: 0px;
+    position: absolute;
+    top: 40px;
+    left: 100px;
+
+
+
+
+
+
+
+
+
+}
+
+.nome-um label {
+    display: none;
+    /* Oculta o rótulo */
+
+}
+
+.email-um {
+
+    background-color: #688c8c00;
+    position: absolute;
+    top: 100px;
+    left: 108px;
+    width: 225px;
+
+
+
+}
+
+.email-um label {
+    display: none;
+    /* Oculta o rótulo */
+}
+
+.cep-um {
+
+    background-color: #688c8c00;
+    margin: 0px;
+    position: absolute;
+    top: 140px;
+    left: 100px;
+    width: 225px;
+
+}
+
+.cep-um label {
+    display: none;
+    /* Oculta o rótulo */
+}
+
+.senha-dois {
+
+    background-color: #688c8c00;
+    margin: 0px;
+    position: absolute;
+    top: 90px;
+    left: 375px;
+    width: 225px;
+}
+
+.senha-dois label {
+    display: none;
+}
+
+.cargo-dois {
+
+    background-color: #041b1b00;
+    margin: 0px;
+    position: absolute;
+    top: 140px;
+    left: 375px;
+    width: 225px;
+
+
+
+
+
+}
+
+.cargo-dois label {
+    display: none;
+    /* Oculta o rótulo */
+}
+
+.btn-cadastrar {
+    position: absolute;
+    top: 240px;
+    left: 249px;
+    width: 225px;
+    height: 45px;
+    background-color: #7C9C9C;
+    border-radius: 10px;
+    /* Valor do raio das bordas */
+    color: #fff;
+    /* Cor do texto */
+    font-weight: bold;
+    /* Estilo do texto */
+    cursor: pointer;
+    /* Cursor do mouse */
+    transition: background-color 0.3s;
+    /* Transição suave de cor */
+}
+
+
+.btn-cadastrar:hover {
+    background-color: #AEC5C5;
+    /* Cor mais clara quando hover */
+}
+
+input[name="nome"] {
+    border-radius: 10px;
+    border-color: #b0dbdbd7;
+    height: 30px;
+    width: 525px;
+    background-color: #7c9c9c2a;
+    
+
+    transition: background-color 0.3s;
+}
+
+.email-um input {
+    border-radius: 10px;
+    border-color: #b0dbdbd7;
+    height: 30px;
+    width: 250px;
+    background-color: #7c9c9c2a;
+
+    transition: background-color 0.3s;
+}
+
+.cep-um input {
+    border-radius: 10px;
+    border-color: #b0dbdbd7;
+    height: 30px;
+    width: 250px;
+    background-color: #7c9c9c2a;
+
+    transition: background-color 0.3s;
+}
+
+.senha-dois input[type="password"] {
+    border-radius: 10px;
+    border-color: #b0dbdbd7;
+    height: 30px;
+    width: 250px;
+    background-color: #7c9c9c2a;
+
+    transition: background-color 0.3s;
+}
+
+.cargo-dois input[type="text"] {
+    border-radius: 10px;
+    border-color: #b0dbdbd7;
+    height: 30px;
+    width: 250px;
+    background-color: #7c9c9c2a;
+
+    transition: background-color 0.3s;
+}
+checkbox-container {
+    
+    position: absolute;
+    
+    
+  }
+  
+  .checkbox-container input[type="checkbox"] {
+    margin-right: 10px;
+    position: absolute;
+    top: 550px;
+   left: 690px;
+    
+  }
+  label[for="aceito"] {
+   position: absolute;
+   top: 550px;
+   left: 730px;
+  }
+  
+  
+  
+  
+  
+  
+  
+h3 {
+    display: none;
+}
